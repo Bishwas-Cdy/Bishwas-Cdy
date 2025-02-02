@@ -1,4 +1,4 @@
-# 💫 Hello World!, Myself Bishwas Chaudhary:
+# 💫 Hello World!, Myself Bishwas Chaudhary.
 Student 
 
 
