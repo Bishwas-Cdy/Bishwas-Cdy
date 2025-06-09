@@ -8,9 +8,8 @@
   <img src="./7663682e3d805c0e51d1559ec13a3fea-vmake.gif" alt="My GIF Banner" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <img src="about_me.gif?raw=true" width="35">&nbsp;  <b>About me</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 I am a <b>Computer Science</b> student, currently at second semester, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
 <br>
