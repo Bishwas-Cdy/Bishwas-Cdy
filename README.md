@@ -32,7 +32,7 @@ I am a <b>Computer Science</b> student, currently at second semester, I am expan
 ###### Languages & Syntax:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
-<img align="right" width=310px alt="Unicorn" src="c2d6eb31dba84eaa7ae2ec231af47040.gif"/>
+<img align="right" width=1080px alt="Unicorn" src="c2d6eb31dba84eaa7ae2ec231af47040.gif"/>
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
