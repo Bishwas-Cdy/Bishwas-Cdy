@@ -8,6 +8,8 @@
   <img src="./7663682e3d805c0e51d1559ec13a3fea-vmake.gif" alt="My GIF Banner" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <img src="about_me.gif?raw=true" width="35">&nbsp;  <b>About me</b>
 
 I am a <b>Computer Science</b> student, currently at second semester, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
@@ -27,7 +29,7 @@ I am a <b>Computer Science</b> student, currently at second semester, I am expan
 
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ###### Languages & Syntax:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
