@@ -1,6 +1,6 @@
 <h1>
   <b></b>
-  <a href="https://github.com/ALX-13">what's up Digga</a>
+  <a href="[https://github.com/ALX-13](https://github.com/Bishwas-Cdy)">what's up Digga</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 <br>
