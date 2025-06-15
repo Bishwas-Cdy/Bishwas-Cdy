@@ -11,8 +11,9 @@
 <img src="about_me.gif?raw=true" width="35">&nbsp;  <b>About me</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I am a <b>Computer Science</b> student, currently at second semester, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
-<br>
+<blockquote>
+  <b>I chose my path, and it led me here. I was unimpressed.</b>
+</blockquote>
 
 <!-- Social Links -->
 <div align="center">
