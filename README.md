@@ -12,9 +12,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <blockquote>
-  <b style="font-size:1.1em;">"I chose my path, and it led me here. I am unimpressed."</b>
-  <br>
-  <span style="font-style:italic; color: #888;">— To GitHub</span>
+  <b>"I chose my path, and it led me here. I am unimpressed."</b>
+  <span align="right" style="float: right; font-style: italic; color: #888;">To GitHub</span>
 </blockquote>
 
 <!-- Social Links -->
