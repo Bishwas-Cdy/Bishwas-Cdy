@@ -46,9 +46,6 @@
 ###### AI/ML Technologies:
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
 
-###### Deployment & Cloud Services:
-(This section would be empty now, or you can add other cloud services)
-
 ###### Operating Systems:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
